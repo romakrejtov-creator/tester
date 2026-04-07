@@ -1,0 +1,10 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Folder Name="/Элементы решения/">
+    <File Path="vcpkg.json" />
+  </Folder>
+  <Project Path="tester/tester.vcxproj" Id="c6b0223d-3f59-4dba-b2c3-8000d42b68f8" />
+</Solution>
